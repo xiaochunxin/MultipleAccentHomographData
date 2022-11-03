@@ -1,0 +1,585 @@
+homograph	wordid	sentence	start	end
+accent	accent_nou	The accent falls on the third syllable.	4	10
+accent	accent_nou	She spoke with an Irish accent. 	24	30
+accent	accent_nou	He flattered himself that he spoke French with a perfect accent.   	57	63
+accent	accent_nou	The Government put the accent on light industry.	23	29
+accent	accent_vrb	Please accent the first syllable. 	7	13
+accent	accent_vrb	The women accent their eyes with make-up.	10	16
+accent	accent_vrb	In any advertising campaign, you must accent the areas where your product is better than your competitor's.    	38	44
+accents	accents_nou	The Draft Plan of IHP-VI was unanimously approved as one setting new accents without leaving out important issues and scientific areas.       	69	76
+accents	accents_nou	The three cars sold to customers each feature a single color of the Italian national flag, together a triology in green, white and red accents and thus representing each a unique piece.           	135	142
+accents	accents_nou	We have the facility to provide plastic gemstone accents in a variety of shapes, colors and surface patterns.    	49	56
+accents	accents_nou	A lovely lake, vast stretches of unspoiled forest and pastures greet the eye; and the clean air, the friendliness and the warm accents of the local inhabitants give the region a unique charm.         	127	134
+accents	accents_vrb	But because it accents the practical, and because it attends to the concrete location of arguments in time and space, it can not ignore issues of politics and ethics. 	15	22
+accents	accents_vrb	In surveying such figures, moreover, Lessing seeks an interpretation that accents the determining historical and instinctual conditions of their consciousnesses rather than the idiosyncracies of their private intuitions.   	74	81
+accents	accents_vrb	At each of its four corners, a 131 foot high minaret frames the mausoleum and accents the symmetry.      	78	85
+accents	accents_vrb	 ... last are accented, and accents the middle one, producing the transcription of Example 3.10b.    	28	35
+agape	agape_nou	In order to obtain agape, we must go on a mystic uprising road. 	19	24
+agape	agape_adj	He watched with mouth agape. 	22	27
+alloy	alloy_nou	Brass is an alloy of copper and zinc.  	12	17
+alloy	alloy_nou	The alloy has excellent thermal stability.	4	9
+alloy	alloy_nou	The ring is not pure gold; there is some alloy in it.	41	46
+alloy	alloy_nou	After use of the tube cutter or tube sawing guide, Swagelok deburring tools deburr stainless steel, steel, and hard alloy tube ends.      	116	121
+alloy	alloy_vrb	Mercy should alloy our stern resentment.	13	18
+alloy	alloy_vrb	Nothing occurred to alloy our happiness.	20	25
+alloys	alloys_vrb	So instead of having to worry about putting wires into your carpet or under your floor, we give you a device kind of like Bluetooth, which alloys the DVD player to talk to the back speakers wirelessly.     	139	145
+alloys	alloys_nou	Use for titanium, high temperature alloys, inconel, and hastalloy.  	35	41
+alloys	alloys_nou	Quenching generally means rapid cooling of metals and alloys to below the critical temperature range to harden them.      	54	60
+alloys	alloys_nou	Arnaud Tissidre is responsible for the worldwide marketing of Comilog ore and Eramet Comilog Manganese alloys.      	103	109
+alloys	alloys_nou	Maraging steels are iron alloys generally characterized by high nickel, very low carbon content and use substitutional elements or precipitates to produce strengthening and age-hardening of the alloy.    	25	31
+austral	austral_adj	The program of the highroad austral the edge had not been seen.  	28	35
+bourgeois	bourgeois_adj	"When I was a student in France before the war, he was very popular with most young people, who read his little book ""Les Nourritures terrestres"" as a sort of pagan New Testament calling on them to revolt against the religious and moral conventions of French bourgeois society, and to achieve the fullest possible expression of their individual temperaments.  "	258	267
+bourgeois	bourgeois_adj	At the beginning of the First World War Vandervelde entered the bourgeois government of Belgium. 	64	73
+bourgeois	bourgeois_adj	The new bourgeois government provoked the confrontation by attempting to rid Paris of the unemployed workers.	8	17
+bourgeois	bourgeois_nou(printer)	This is a typical bourgeois neighborhood.	18	27
+process	process_vrb	Brazil began importing soybeans to process at home. 	35	42
+process	process_vrb	The computer helps us to process reservation rapidly.  	25	32
+process	process_vrb	Orders are starting to backlog faster than we can process them.	50	57
+process	process_vrb(walk)	The visitors process into the house.	13	20
+process	process_vrb(walk)	The bishops, priests and deacons process into the cathedral.  	33	40
+processes	processes_vrb	EPA then processes the notice through the State Department to the receiving country.	9	18
+processes	processes_vrb	The programming unit also statistically processes the foot switch data collected by the stimulator. 	40	49
+processes	processes_vrb(walk)	The congregation processes into the church.	17	26
+contrary	contrary_adj(behave)	Mrs. Smith is too contrary to make friends easily.	18	26
+contrary	contrary_adj(behave)	He was asked to leave kindergarten for being contrary.	45	53
+coronal	coronal_adj	The distributions of. temperature T, density N and velocity V are given using the equations coupling the MHD waves with the coronal atmosphere.  	124	131
+coronal	coronal_adj	Observational data in the radio, X-ray and optical wavebands provide the reliable evidences that the interaction between flare coronal loops can lead to the onset of solar flares.   	127	134
+coronal	coronal_adj	"By using multi-frame optical probing photography, we have discovered and investigated the large-scale ""Horn Tip"" plasma jet structures in the coronal region of line-focused laser-produced plasmas.    "	142	149
+cursed	cursed_adj	The tiny village of Frinley is said to possess a 'cursed tree'. 	50	56
+cursed	cursed_adj	"
+It is said that there is a ""cursed river"" in a remote small village. "	29	35
+cursed	cursed_adj	The necklace was cursed.  	17	23
+cursed	cursed_adj(unpleasant)	I wish that cursed dog would is quiet. 	12	18
+experiment	experiment_nou	The results of the experiment are not statistically significant.    	19	29
+experiment	experiment_nou	"
+The experiment had the reverse effect to what was intended.  "	5	15
+experiment	experiment_nou	The temperature remained constant while pressure was a variable in the experiment.            	71	81
+experiment	experiment_nou	The results of the experiment confirmed our predictions.    	19	29
+experiment	experiment_vrb	Scientists experiment with rats in order to discover facts about human behaviour 	11	21
+experiment	experiment_vrb	Now is the time to experiment in different fields of study.   	19	29
+experiment	experiment_vrb	If you will experiment with soft drugs you must take the consequences. 	12	22
+experiments	experiments_nou	The results of the experiments are not statistically significant.   	19	30
+experiments	experiments_nou	The experiments were carried out under simulated examination conditions.  	4	15
+experiments	experiments_nou	Many people do not like the idea of experiments on animals.     	36	47
+experiments	experiments_nou	The experiments serve no useful purpose.  	4	15
+experiments	experiments_vrb	She experiments until she succeed in mixing the right colour. 	4	15
+experiments	experiments_vrb	He experiments on animals. 	3	14
+gill	gill_nou(animal)	There are a few chloride cells in the gill surface. 	38	42
+gill	gill_nou(name/measurement)	"A gill is equal to a quarter pint. "	3	7
+gill	gill_nou(name/measurement)	I'd bet a gill of old Jamaica,' said the Captain, eyeing him attentively, 'that I know what you're a smiling at.'	10	14
+grave	grave_adj	The consequences will be very grave if nothing is done. 	30	35
+grave	grave_adj	We are in the grave peril. 	14	19
+grave	grave_adj	The situation was grave.	18	23
+grave	grave_adj	But the most acute problems are not the most grave. 	45	50
+inland	inland_adj	The early settlers gradually inhabited inland areas.   	39	45
+inland	inland_adj	The group also stepped up its drive to expand production in inland provinces.     	60	66
+inland	inland_adj	Chongqing in his plan is to be an inland Shanghai.    	34	40
+inland	inland_adj	But there were lack of magmatic activity in inland red bed basin.     	44	50
+inland	inland_adv	It's about 15 minutes' drive inland from Cannes.  	29	35
+inland	inland_adv	The travelers pushed inland, questing for signs of human settlement. 	21	27
+inland	inland_adv	We left the coast and travelled inland to Cambridge. 	32	38
+inland	inland_adv	If I get more than ten miles inland, I begin to feel claustrophobic.  	29	35
+inside	inside_adv	For some peculiar reason, she refused to come inside. 	46	52
+inside	inside_adv	She shook it to make certain there was nothing inside.   	47	53
+inside	inside_adv	We have to play inside because it is raining.	16	22
+inside	inside_adv	We cooked inside, so sometimes it got too hot. 	10	16
+inside	inside_adj	For years we had little knowledge of what life was like in inside China.     	59	65
+inside	inside_adj	The inside story of the heroine is also worth noting. 	4	10
+inside	inside_adj	Emily carefully opened the box and was surprised to see what was inside.   	65	71
+inside	inside_adj	Maybe it is in your inside pocket.   	20	26
+legitimate	legitimate_vrb	We want to legitimate this process by passing a law. 	11	21
+legitimate	legitimate_vrb	An inward love could legitimate the external physical correction of sinners to prevent their future damnation.  	21	31
+legitimate	legitimate_vrb	Neither kind becomes politically relevant largely or exclusively because of the ideas that legitimate the demands.        	91	101
+legitimate	legitimate_vrb	All in all, Duelo emerges as an almost faithful recasting of Juegos, simply using a different backcloth against which to explore and legitimate the same concerns.          	133	143
+legitimate	legitimate_adj	The empire could not cohere as a legitimate whole.  	33	43
+legitimate	legitimate_adj	"
+It seemed a perfectly legitimate question. "	23	33
+legitimate	legitimate_adj	"
+The New York Times has a legitimate claim to be a national newspaper."	26	36
+legitimate	legitimate_adj	The threat of bankruptcy is a legitimate tool to extract money from them. 	30	40
+mush	mush_vrb	Getting angry he begins to mush the sculpture.	27	31
+mushes	mushes_vrb	He who mushes the clay has no worries.	7	13
+mushes	mushes_nou(body/address)	"We don't want the tomato to turn to any mushes or tomato sauce. "	41	47
+offside	offside_nou	The offside was damaged. 	4	11
+offside	offside_nou	That chest-tearing up both lungs and the heart broke a rib on the offside, and came to rest in the meat of the off shoulder.   	66	73
+offside	offside_nou	As soon as you hit the ball, you cross to the offside.      	46	53
+offside	offside_adv	He was ruled offside by the referee.	13	20
+offside	offside_adv	When the decisive goal is waived offside by another incorrect lines-blind. 	33	40
+offside	offside_adv	If five yards is insufficient for the officials to comprehend what has just happened then abandon all further attempts since chasing repeatedly after an opponent who has not been flagged offside is not a winning strategy.         	187	194
+opiate	opiate_nou	One woman suffered such severe pain she had to take opiate to control it.   	52	58
+opiates	opiates_nou	"One woman suffered such severe pain she had to take opiates to control it.   "	53	60
+orient	orient_adj	The vase seems to have an orient origin. 	26	32
+orient	orient_adj	This so-called orient pearl archipelago is as diverse as the islands that comprise it and the orient seas that surround it. 	15	21
+orient	orient_adj	But orient pearls were the pearliest pearls: merchants with the Goldsmith's company in London frequently used the term orient to indicate a pearl particularly high in nacre and thus high in value; thus, orient may be closer in meaning ...	4	10
+orient	orient_adj	All the barons have crowns of gold upon their heads , very noble and rich , full of precious stones and great orient pearls.         	110	116
+orient	orient_vrb	It took him some time to orient himself in his new school.    	25	31
+orient	orient_vrb	The mountaineers found it hard to orient themselves in the fog.    	34	40
+orient	orient_vrb	You will need the time to orient yourself to your new way of eating.   	26	32
+orient	orient_vrb	She lay still for a few seconds, trying to orient herself.    	43	49
+outside	outside_prep	At Princeton Wilson already felt compelled to take his ideals outside the cloister , playing a part upon the public stage.    	62	69
+outside	outside_prep	He would be able to make use of it outside the milieu in which he had grown up and was already committed to opening up to others the intellectual experiences that it made available to him.   	35	42
+outside	outside_prep	We hope that it is our humanness, as well as our professional achievements, that will come to the fore in future issues of the Newsletter--enough so, at least, to make you want to read about who and what we are, what we do, what we think, and even what we 're like when we are outside the hallowed halls of academe.                 	277	284
+outside	outside_prep	CABE Space is a key CABE programme relating to the experience of young people outside the classroom.     	78	85
+outside	outside_adj	Many live in remote regions, some speak only their ethnic language and few have had any opportunities to communicate their knowledge and values to the outside world.          	151	158
+outside	outside_adj	Go to the outside world!   	10	17
+outside	outside_adj	Let outside people (not in Allow List or Block List) send me messages.	4	11
+outside	outside_adj	Tom argued that they needed the outside help.  	32	39
+overall	overall_nou	The lab assistant was wearing a white overall. 	38	45
+overall	overall_nou	The shop assistant was wearing a white overall.  	39	46
+overall	overall_nou	I've got my overall on, so I'm ready to start work.  	12	19
+overall	overall_nou	The laboratory worker in a white overall turned out to be the president's daughter.    	33	40
+overall	overall_adj	We need to take an overall view of the problem.  	19	26
+overall	overall_adj	Thus I can get an overall view of my job. 	18	25
+overall	overall_adj	He gained overall control by putting up most of the capital.	10	17
+piano	piano_nou	She'd love to be able to play the piano.  	34	39
+piano	piano_nou	She does an hour's piano practice every day. 	19	24
+piano	piano_nou	You need a good ear to master the piano. 	34	39
+piano	piano_nou	Where do you want the piano to go? 	22	27
+prospect	prospect_nou	They are just bringing up all their old rehashed claims with no prospect or vision for the future. 	64	72
+prospect	prospect_nou	I'm really excited at the prospect of working abroad. 	26	34
+prospect	prospect_nou	The prospect of a year in India greatly excited her. 	4	12
+prospect	prospect_nou	The prospects for the immediate future are good. 	4	12
+prospect	prospect_vrb	Holes 1 to 3 were drilled to prospect the fault ...	29	37
+prospect	prospect_vrb	Then in 1976 it issued oil exploration licenses in a contested region of the eastern Aegean and sent a research vessel , Sismik I, to prospect for oil. 	134	142
+prospect	prospect_vrb	"He had run into some bad luck when he went north to the Yukon to prospect for gold, but then good luck had found him in the person of Frank Morgan."""	65	73
+prospect	prospect_vrb	"The 1872 law , they argue , has worked well by providing strong financial incentives to prospect for minerals -- so why change it?"" "	88	96
+prospects	prospects_nou	Long-term prospects for the economy have improved. 	10	19
+prospects	prospects_nou	I had a long talk with my boss about my career prospects.	47	56
+prospects	prospects_nou	I'm really excited at the prospects of working abroad.	26	35
+prospects	prospects_nou	The prospects of a year in India greatly excited her.	4	13
+prostrate	prostrate_vrb	Mr Abe was never likely to prostrate himself before a foreign legislature, but the speech echoed his previous remarks on history. 	27	36
+prostrate	prostrate_vrb	The captives prostrate themselves before the conqueror.  	13	22
+prostrate	prostrate_vrb	The statue before which they prostrate themselves in adoration. 	29	38
+prostrate	prostrate_adj	A low spreading or prostrate shrub of southwestern United States with small acorns and leaves resembling those of the huckleberry.  	19	28
+prostrate	prostrate_adj	He stmbled over luke's prostrate body. 	23	32
+re	re_prep	Dear Mrs Cox, Re: Household Insurance. We note from our files that we have not yet received your renewal instructions.     	83	85
+re	re_prep	I want to speak to you re your behaviour.	23	25
+recall	recall_nou	She has amazing powers of recall.  	26	32
+recall	recall_nou	It tests the individual's orientation, attention, calculation, recall, language and motor skills. 	63	69
+recall	recall_nou	Mary has total recall and never forgets anything.  	15	21
+recall	recall_vrb	She could not recall his name. 	14	20
+recall	recall_vrb	Can you recall exactly what happened?	8	14
+recall	recall_vrb	Emailing the neuroscientist and memory researcher Jim McGaugh one day, she claimed that she could recall every day of her life since the age of 12.     	98	104
+recall	recall_vrb	Twenty years later he could still clearly recall the event.   	42	48
+recalls	recalls_nou	"Not long after the recalls, the satellite relays went down , and without those we haven't been able to pick up anything."" "	19	26
+recalls	recalls_nou	The GAO reviewed detailed case files on each of the recalls associated with outbreaks of food-borne illnesses. 	52	59
+recalls	recalls_nou	Can they avoid the recalls and flawed assembly that have marred most Chrysler products launched since the company's rebound began with the 1992 Jeep Grand Cherokee?	19	26
+recalls	recalls_nou	According to industry officials, the recalls also adversely affected salmon prices.  	37	44
+recalls	recalls_vrb	The poem recalls Eliot's 'The Waste Land'. 	9	16
+recalls	recalls_vrb	Whaley recalls how at the beginning of the year, when called upon to read, Chris would excuse himself to go to the bathroom ．	7	14
+recalls	recalls_vrb	She recalls her own first year of college. 	4	11
+regiment	regiment_nou	He made his way back to the farmyard where his regiment was encamped.    	47	55
+regiment	regiment_nou	The 5th regiment bore down on the enemy positions. 	8	16
+regiment	regiment_nou	The regiment was recruited from the Highlands specifically for service in India.	4	12
+regiment	regiment_vrb	She tried to regiment us into doing exactly as she says. 	13	21
+regiment	regiment_vrb	It is not ready to regiment all youth in order to create some future Garden of Eden, held by teachers to be desirable. 	19	27
+regiment	regiment_vrb	The social aim of the new program was not to regiment from without but rather to regulate from within, by investing the very movement.  	45	53
+regiment	regiment_vrb	The buffer reduces surface chop while allowing the incoming waves to regiment in defined lines.   	69	77
+regiments	regiments_nou	Two regiments were sent to garrison the town. 	4	13
+regiments	regiments_nou	His regiments were considerably under strength.	4	13
+regiments	regiments_nou	The three regiments are all under the command of you.  	10	19
+regiments	regiments_nou	Two regiments of cavalry were called out to tame the crowds. 	4	13
+retail	retail_vrb(gossip)	It is of no good for you to retail such gossip. 	28	34
+retail	retail_vrb(gossip)	Why do you retail these rumors about him?	11	17
+retails	retails_vrb	The wench retails this precious cordial to them at her own price.	10	17
+retails	retails_vrb	In this shop she retails tobacco and sweets.	17	24
+retails	retails_vrb	This biro retails at 70p. 	10	17
+retails	retails_vrb	She retails most of these products to overseas customers.	4	11
+retails	retails_vrb(gossip)	She retails everything she hears about her acquaintances.	4	11
+retails	retails_vrb(gossip)	She takes the most scrupulous care to deny and defend as she retails, and you cannot class her with the tribe of the ill-natured whom she censures, setting, as she does, the whole strength of her gentle words and generous disbelief in ...  	61	68
+retails	retails_vrb(gossip)	Her son treats her with the greatest respect, and consults her in all his amours, for which she professes the greatest horror, and which she retails to her correspondents all over the world, in letters as long as her pedigree.             	141	148
+retails	retails_vrb(gossip)	And she retails scraps hypocrisy and a plague spot of cant.	8	15
+router	router_nou(computer)	Items that are not allowed in student rooms include: candles, ceiling fans, fireworks, waterbeds, sun lamps and wireless router.      	121	127
+router	router_nou(computer)	Use router access control list to realize Internal Network Security Research.	4	10
+router	router_nou(computer)	In this paper, the basic concept and router classification method. 	37	43
+router	router_nou(tool)	You need a router, and I'll explain why.	11	17
+second	second_nou	I'll be with you in a second. 	22	28
+second	second_num	Last year, he was ranked second in his age group.   	25	31
+second	second_vrb	I second that, but I'm sure they want more.	2	8
+slough	slough_nou	Simon fell Into a dirty slough.	24	30
+slough	slough_nou	The horses were stalled in a slough.   	29	35
+slough	slough_nou	He saved her from the slough of despond. 	22	28
+slough	slough_vrb	Snakes slough off their skins once a year. 	7	13
+slough	slough_vrb	The cicada has to slough off its skin before it can fly. 	18	24
+slough	slough_vrb	In a prolonged course, the hooves, horns and hair may slough.   	54	60
+sloughs	sloughs_nou	The lemon geranium sloughs dry brown leaves at the base of its branches. 	19	26
+sloughs	sloughs_nou	Larva had the habit of feeding on their own sloughs and killing each other.	44	51
+sloughs	sloughs_nou	Nephalia's sloughs, sea mists, and mysteries cloak its commerce and crimes. 	11	18
+sloughs	sloughs_vrb	Every spring this snake sloughs off its skin, as it has grown too big for it.    	24	31
+sloughs	sloughs_vrb	He sloughs off the memories of the past.	3	10
+sloughs	sloughs_vrb	After the eschar sloughs off, the amount of remaining tissue may vary. 	17	24
+subcontract	subcontract_nou	The two companies made a subcontract just now.  	25	36
+subcontract	subcontract_vrb	The most likely outcome may be to subcontract much of the work to an outsider. 	34	45
+subcontracts	subcontracts_nou	They have been award the subcontracts for all the electrical work in the new building.	25	37
+subcontracts	subcontracts_vrb	He subcontracts a small engineering firm to do the work.	3	15
+surmise	surmise_nou	This is pure surmise on my part.   	13	20
+surmise	surmise_vrb	There's so little to go on, we can only surmise what happened   	40	47
+surmises	surmises_nou	It turned out that my surmises were correct.	22	30
+surmises	surmises_vrb	He surmises that he had discovered one of the illegal streets. 	3	11
+surrogate	surrogate_adj	She saw him as a sort of surrogate father.   	25	34
+surrogate	surrogate_adj	Martin had become Howard Cosell's surrogate son.  	34	43
+surrogate	surrogate_adj	It had to look for something to be a surrogate mother. 	37	46
+surrogates	surrogates_nou	I do not know if your company has surrogates in our country. 	34	44
+surrogates	surrogates_nou	In addition, the patient or surrogates may correct any historical misinformation at this time.	28	38
+surrogates	surrogates_nou	Casey intended to confront Communist governments in all five countries, Woodward asserts, because he believed they operated as surrogates of Moscow.         	127	137
+thou	thou_pron	If I were thou, I'd call me us.	10	14
+thou	thou_pron	Day passes by after day and thou art not seen.  	28	32
+topmast	topmast_nou	A mast fixed to the head of a topmast on a square-rigged vessel.   	30	37
+topmast	topmast_nou(nautical)	A triangular topsail with its foot along the gaff and its luff on the topmast.        	70	77
+topsail	topsail_nou	When sailing close hauled, a topsail frequently does more harm than good and unless it is set very nicely it retards rather than propels a boat.	29	36
+topsail	topsail_nou(nautical)	A topsail must be made of very light material to avoid adding too much topweight.	2	9
+transect	transect_nou	Second day of transect for us and third for the team. 	14	22
+transect	transect_vrb	The road was intended to transect the northern region of the country.  	25	33
+transects	transects_nou	Controlling based on exploring radar the field survey design on road transects.  	69	78
+transects	transects_vrb	A raptor transects the meadow, utters its hunting call. 	9	18
+unused	unused_adj	You can change back unused dollars into pounds at the bank. 	20	26
+unused	unused_adj	Because adult cells have specific, specialized functions, most of the unused DNA has been turned off.    	70	76
+unused	unused_adj	If unused, winter radishes run to seed in spring. 	3	9
+unused	unused_adj(followed~by~to)	This is an easy routine, designed for anyone who is unused to exercise. 	52	58
+unused	unused_adj(followed~by~to)	She was unused to talking about herself.	8	14
+unused	unused_adj(followed~by~to)	Mother was entirely unused to such hard work.	20	26
+used	used_adj	He makes sweaters from used plastic bottles.	23	27
+used	used_adj	I want to buy a used car at a cheap price. 	16	20
+used	used_adj	To save money, I purchased a used car instead of a new one. 	29	33
+used	used_adj	There is a used glass on the coffee table.	11	15
+used	used_adj(followed~by~to)	It's very different to what I'm used to.	32	36
+used	used_adj(followed~by~to)	He has his own peculiar style which you'll soon get used to.  	52	56
+used	used_adj(followed~by~to)	They're used to stretching their budgets	8	12
+used	used_adj(followed~by~to)	She used to making a speech in public. 	4	8
+viva	viva_nou	Some members of the huge crowd shouted 'Viva peace, viva.' 	52	56
+abstract	abstract_nou	Please write an abstract of this article.  	16	24
+abstract	abstract_nou	He read through the papers and made an abstract of their contents.     	39	47
+abstract	abstract_nou	I have read the abstract of his book.   	16	24
+abstract	abstract_nou	This article is a revised version of the paper that won the Harold K. Schneider Student Essay Prize, an abstract of which was published in the Society for Economic Anthropology Newsletter.       	104	112
+abstracts	abstracts_vrb	This newly defined act is now generalized on the basis of an act of moral understanding which abstracts the relevant contextual specifics from the irrelevant.       	94	103
+abstracts	abstracts_vrb	When the soul perceives something in the creaturely realm, it abstracts the form from the sensible object and judges that form according to its orientation to the full knowledge of that form in the eternal reasons.  	62	71
+abstracts	abstracts_vrb	Our work abstracts the concept of testbeds to yield virtual testbeds (VTBs) programmed similarly regardless of whether their underlying realization is physical, simulated, or emulated.	9	18
+abstracts	abstracts_vrb	He abstracts the landscape through a composition that owes more to Giotto than to the Hudson River School: Panoroma: Konkordiaplatz constitutes an abstract expressionist altarpiece.	3	12
+adverts	adverts_vrb	She adverts for the book Bible Basics.	4	11
+affiliates	affiliates_vrb	The article affiliates the felt element between steel pipe and concrete, it is near to the force behavior of the square concrete-filled steel tubular columns. 	12	22
+affiliates	affiliates_vrb	When China affiliates with the WTO, the Chinese automobile parts and components industry will gradually lose the protection of high tariff, and its manufacturers will have to compete with powerful international corporations. 	11	21
+affixes	affixes_nou	The Study on Chinese affixes is one of the important parts of the Chinese history study.	21	28
+affixes	affixes_nou	But English words can also be group under word roots and affixes.   	57	64
+affixes	affixes_nou	We can find such negation in many morphological constructions with interior negative affixes.     	85	92
+affixes	affixes_vrb	After traveling from Gorkau, the prince 's chief steward, to Rabastens and his narratee, the text is presumably arrested once put in the volume to which Lorrain affixes his signature.           	161	168
+affixes	affixes_vrb	One side of a virus particle affixes itself to the surface of one cell.   	29	36
+affixes	affixes_vrb	There are three on each side: One, the flexor of the throat-plate, originates from the inner process of the prosternum, and affixes itself in the centre of the plate of the throat.      	124	131
+aged	aged_adj(age)	The knowingness of young children unsettles us , as I discovered the day my son, then aged three, told me on the way home from the nursery that his friend Zak had found a condom on the patio.  	86	90
+aged	aged_adj(age)	My daughter, aged three, says if we keep digging far enough and move all the earth he might come up again before summer. 	13	17
+aged	aged_adj(age)	That night, little Govind, aged three and a half, disappeared without a trace. 	27	31
+aged	aged_adj(age)	Alan has two children, aged eleven and nine.  	23	27
+aged	aged_adj(old)	Having aged relatives to stay in your house can be quite stressful. 	7	11
+aged	aged_adj(old)	She has an aged parent who's capable of being very difficult.  	11	15
+aged	aged_adj(old)	She helped take care of his aged grandmother.   	28	32
+aged	aged_adj(old)	He felt it his duty to look after his aged parents. 	38	42
+agglomerate	agglomerate_nou	The infiltration of fluid can cause some rearrangement of the packing structure, or alter the cohesive forces binding the agglomerate together.       	122	133
+aggregate	aggregate_nou	Our airplanes based in Europe should be included in the aggregate.    	56	65
+aggregate	aggregate_nou	The aggregate of the amounts recoverable from the carrier, the actual carrier and their servants and agents shall not exceed the limits of liability provided for in this Convention.	4	13
+aggregate	aggregate_nou	The tax increases will, in the aggregate, cause much hardship.  	31	40
+aggregate	aggregate_nou	The football team had a low goal aggregate last season.     	33	42
+aggregates	aggregates_vrb	Table 2 aggregates the responses at the community level to the following question. 	8	18
+aggregates	aggregates_vrb	Table 10 aggregates the topics listed in Table 6 into 15 broad categories. 	9	19
+aggregates	aggregates_vrb	One instrument dominated, then another and then another, all together creating discordant aggregates the same way David's mind threw up distinct and separate memory snapshots.       	90	100
+aggregates	aggregates_vrb	The proposal does not incorporate into the monetary aggregates the effects of substantial changes in businesses' asset management practices such as the use of overnight repurchase agreements , overnight Euro-dollar deposits and other ...   	52	62
+alternate	alternate_nou	Select the Lead time alternate region for the item. 	21	30
+alternate	alternate_adj	Select the Main alternate region.  	16	25
+alternate	alternate_adj	Select the General Planning alternate region.   	28	37
+alternate	alternate_adj	That was a week of alternate rain and sunshine.    	19	28
+animate	animate_adj	We are animate beings; living creatures.  	7	14
+animate	animate_adj	The world contains things which are animate, such as animals, and things which are inanimate, such as rocks.   	36	43
+animate	animate_adj	Possessions of any kind were animate and ensouled capable of injuring, evading human purposes gave rise to an extraordinary feeling of impotence on the part of human agents. 	29	36
+animate	animate_adj	Thus the drives encounter will in the form of other interpreting drives not only those of our fellow human beings but also the drives than animate animals, plants and all other natural phenomena.   	139	146
+approximate	approximate_adj	This is just an approximate figure. 	16	27
+approximate	approximate_adj	We are entirely justified in using the approximate theory. 	39	50
+approximate	approximate_adj	He spent approximate two hours searching the photo.	9	20
+approximate	approximate_adj	The approximate number of students in the school is 300.	4	15
+aspirates	aspirates_vrb	Bone marrow aspirates to be tested for Leishmania amastigotes. 	12	21
+associate	associate_nou	A former associate of Mr. Pierce's was among the project's boosters.	9	18
+associate	associate_nou	He is not a friend but a business associate.  	34	43
+associate	associate_nou	Never order for your business associate.	30	39
+associate	associate_nou	Actually, Michael is just an associate.   	29	38
+bass	bass_nou(music)	He sings bass. 	9	13
+bass	bass_nou(music)	He always plays his stereo with the bass turned right up. 	36	40
+bass	bass_nou(music)	Jackie Carrera on bass. 	18	22
+bass	bass_nou(music)	Kurt had started out playing bass in a rock band. 	29	33
+bass	bass_nou(animal)	He jumped into the river to catch the big bass in defiance of the cold water. 	42	46
+bass	bass_nou(animal)	... brown trout , rainbow trout , lake whitefish green sunfish PR RI SC SD no fish consumption advisories striped bass fish species  	114	118
+bass	bass_nou(animal)	Restock with bass fish as well as the bass.	13	17
+bow	bow_nou(gesture/front~of~ship/bow~wow/river)	They moulded a complete new bow section for the boat.	28	31
+bow	bow_nou(gesture/front~of~ship/bow~wow/river)	The waves were about five feet now, and the bow of the boat was leaping up and down. 	44	47
+bow	bow_nou(gesture/front~of~ship/bow~wow/river)	The injured captain, lying in the bow of the boat, said nothing. 	34	37
+bow	bow_nou(gesture/front~of~ship/bow~wow/river)	Was this date, at least, a bow to dogma, even if the rest of the chronology has more scholarly roots?	27	30
+bow	bow_nou(knot/weapon/region~of~London)	The mast, which was a solid spruce spar, bent like a bow, and for a moment I thought we were going to lose it.  	53	56
+bow	bow_nou(knot/weapon/region~of~London)	You must hold your bow like this, not like that. 	19	22
+bow	bow_nou(knot/weapon/region~of~London)	But they just can't do it all in one bow. 	37	40
+buffet	buffet_nou(dining)	Come for cocktail and buffet next sunday. 	22	28
+buffets	buffets_nou(dining)	At lunchtime, there's a choice between the buffets or the set menu. 	43	50
+certificate	certificate_vrb	This certificate the registrar will grant at the expiration of seven days from the entry of the notice, where the marriage is to be by license, but not until after twenty-one days where the marriage is upon certificate merely.	5	16
+close	close_vrb	If you close your eyes, you can't see anything.	7	12
+close	close_adv	They live quite close.	16	21
+compact	compact_nou	You should sign your name on the right side of the compact.	51	58
+compact	compact_nou	Since a new global compact on currencies is unlikely in 2011, this trend is likely to gather momentum.  	19	26
+compact	compact_nou	Every realist knows a post-Kyoto global compact on tackling climate change could be neither strong nor enforceable. 	40	47
+compact	compact_nou	The states bordering on the Delaware River have entered into a compact for the sharing of its water. 	63	70
+compound	compound_nou	The plumber packed the joint of the pipe with string and a special compound.   	67	75
+compound	compound_nou	Concealed video cameras scan every part of the compound.    	47	55
+compound	compound_nou	A vitamin is a chemical compound that cannot be synthesized by the human body.   	24	32
+compound	compound_nou	This sticky compound adheres well on this surface.  	12	20
+compounds	compoundz_nou	Carbon dioxide is a necessary result of the oxidation of carbon compounds.   	64	73
+compounds	compoundz_nou	These compounds bind with genetic material in the liver. 	6	15
+compounds	compoundz_nou	Bus conductor', 'dark-haired' and 'policeman' are compounds.   	50	59
+compounds	compoundz_nou	Medicines are usually compounds. 	22	31
+compounds	compoundz_vrb	Many words are compounds, such as blackboard, inkpot, and the like.	15	24
+compresses	compresses_vrb	But the full list compresses an amazing amount of analysis about a stupendous amount of literature, and should be read carefully.	18	28
+compresses	compresses_vrb	As it falls, it compresses the air in front of it.	16	26
+compresses	compresses_vrb	The P wave, or compressional wave, alternately compresses and expands material in the same direction it is traveling. 	47	57
+conducts	conducts_nou	Therefore, I ask Premier Wen to launch investigation into these conducts of corruption and deal with them. 	64	72
+conducts	conducts_nou	"That ruling also says that a state agency isn't required to protect its citizens against violence and other mishaps that are, I quote, "" Not attributable to the conducts of its employees. ""    "	161	169
+conducts	conducts_nou	The above principles help to regulate the awareness and conducts of procedure-conducting persons when dealing with juveniles. 	56	64
+conducts	conducts_nou	In this context, the Special Rapporteur makes a number of recommendations to the Government, including the need to address the persistence of racial discrimination and xenophobia and the lack of legislation that manifestly prohibits these conducts, the exploitation of migrants in the labour sector, the lack of interventions by the judiciary and police to protect migrants’ rights, the strict policy of detention and deportation of irregular migrants, the difficulties for migrant children to access education either in Japanese or foreign schools, and the overall lack of a comprehensive immigration policy that respects the human rights of migrants and ensures their integration into the Japanese society.         	239	247
+conducts	conducts_vrb	The team that conducts the eligibility assessment must include experts in non-biased assessments and provide the IEP team with information to help the team understand the impact of the student’s disability as it relates to an English Learner. 	14	22
+conducts	conducts_vrb	The Field Safety Section (FSS) conducts regular reviews of operations where risks to staff are higher through a Security Steering Committee, chaired by either the High Commissioner or the Assistant High Commissioner for Operations.  	31	39
+conducts	conducts_vrb	It also conducts annual performance appraisals in respect of each senior management personnel of the Company and determines the remuneration of such senior management personnel based on the results of such appraisals. 	8	16
+conducts	conducts_vrb	The Junior Reporters Club conducts research in their communities to understand how their peers are using social media and other digital tools. 	26	34
+conflicts	conflicts_vrb	Accordingly, the Court refused to endorse a rule that conflicts with federal law and industry practice.  	54	63
+conflicts	conflicts_vrb	Adobe use some coding that conflicts with HT. 	27	36
+conflicts	conflicts_vrb	Most Europeans want to stem the Muslim invasion, not because they are right-wing or racist, but instead because Islam conflicts with their social democratic values: tolerance, openness, free speech.   	118	127
+consoles	consoles_vrb	Set to a gorgeous, almost hypnotic rolling motif by music director Christian Jacob, Buckley at the same time questions and consoles her inner self in musical gorgeousness.     	123	131
+consorts	consorts_nou	"Nurhachu consorts, who most personifies the Jurchen people received following the wedding, is ""Queen of gun"" Fu Cha.  "	9	17
+consorts	consorts_vrb	This is the perilousness of being a witch who consorts with mortals. 	46	54
+consorts	consorts_vrb	He consorts with the voiceless - hobos, whores, junkies - to give them a voice.	3	11
+content	content_nou	The Organization must continue to improve the clarity and consistency of the messages it delivers, the value of the content it produces for a diverse public, and the effectiveness of its dissemination.    	116	123
+content	content_nou	All original content herein is Copyright 2000-2012 Ascension Gaming Network, Inc.	13	20
+content	content_nou	 I don't want users to have to filter, sort, or organize their content.	63	70
+content	content_nou	It is the knowledge and content which should be in front of the child, not the technology which delivers it, and that’s why we put IGEL’s thin clients into the solution. 	24	31
+content	content_nou(contentment)	Her life only had content when she was with him.	18	25
+content	content_nou(contentment)	The cat lay stretched out beside the fire in sleepy content.  	52	59
+content	content_nou(contentment)	A life without success has no content.  	30	37
+content	content_nou(contentment)	She began to live in peace and content. 	31	38
+contests	contests_vrb	If the source contests the Government’s information on reasonable grounds, the Government is so informed and invited to comment.  	14	22
+contests	contests_vrb	On the contrary, the complainant first contests the domestic authorities’ assessment of the facts, then describes in general terms the human rights situation in Togo before claiming, on the basis of his own assessment of the facts, that he would face a real, personal and immediate risk of being tortured in the event of his removal to Togo.   	39	47
+contests	contests_vrb	In his comments dated 18 August 2011, the complainant contests the State party’s claim that the inhabitants of Kinshasa consider the war in the east to be a conflict between ethnic elites.   	54	62
+contests	contests_vrb	The Group strongly contests the notion that those compounds can justifiably be designated as purely residential. 	19	27
+contracts	contracts_vrb	Metal contracts as it becomes cool.	6	15
+contracts	contracts_vrb	In another episode, New York, sometime after the 21st century, contracts the mob to launch their garbage problem into space. 	63	72
+converse	converse_nou	He says she is satisfied, but I believe the converse to be true: she is very dissatisfied.	44	52
+converse	converse_nou	I believe the converse of what you are saying.	14	22
+converse	converse_nou	It is possible, of course, that the converse of this theory may also be true. 	36	44
+converse	converse_nou	I get excited because that means i won't have to spend three hours explaining myself to a new person who hopefully wants to see me with my shirt off someday, but the converse of that is i get to meet a person who has already decided everything he will ever need to know about me.  	166	174
+converses	converses_nou	" "" A? B "" and "" B? A "" are said to be converses of each other."	38	47
+converses	converses_nou	I mean secret prayer and meditation: there are the most intimate converses with God. 	65	74
+converses	converses_vrb	I believe that there is a prophet on the earth who speaks directly to God and converses directly with him. 	78	87
+converses	converses_vrb	Silent at night in bed she converses with those who are near and with those invisible.	27	36
+converses	converses_vrb	Ben converses with the the guard who requests tobacco, money, Chinese money.	4	13
+convicts	convicts_vrb	If a court or magistrate convicts a person of an offence under subsection (1), the court or magistrate shall order the person be disqualified in accordance with subsection (2A) or (2B) unless the court or magistrate for special reaso orders that the person be disqualified for a shorter period or that the person not be disqualified.  	25	33
+convicts	convicts_vrb	At the same time it convicts me of times where I thought the shortcut is better but its not!	20	28
+convicts	convicts_vrb	"Under the Road Traffic Ordinance
+[...] (Cap. 374), with effect from 9 February, 2009, if a court convicts a person of drink driving, dangerous driving, dangerous driving causing death, driving in excess of speed limit by more than 45 km an hour, motor racing or speed trials, the Court shall, unless for special reasons not to do so, order the person to attend and complete a driving improvement course.     "	97	105
+curates	curates_vrb	Christina Milletti teaches at University of Buffalo, SUNY, where she also curates the Exhibit X Fiction Series. 	74	81
+curates	curates_vrb	Only in Your State, a website that curates restaurants across the country, decided earlier this week that Tucson deserves two sandwiches on the list of eight in Arizona that must be tried before you die.	35	42
+defect	defect_vrb	Soldiers defect to the opposition or become pirates and ammunition is sold to the opposition.  	9	15
+defect	defect_vrb	We thought that his troops might defect.	33	39
+defect	defect_vrb	The politician decided to defect from his own party and joined the opposition.   	26	32
+degenerate	degenerate_nou	This degenerate seduced my daughter!	5	15
+degenerate	degenerate_nou	A degenerate is a person whose behavior deviates from what is acceptable especially in sexual behavior.	2	12
+degenerate	degenerate_nou	Dealing with a degenerate like this guy, Olson, what the hell was that all about?	15	25
+degenerate	degenerate_nou	It's a community college where a degenerate just blew himself up with stolen lab equipment.	33	43
+degenerates	degenerate_nou	And, as with Rohm and the SA, the modern American flag officer corps, as I have said many, many times, is a hive of sickening moral degenerates.    	132	143
+degenerates	degenerate_nou	Our capacity to connect through the Internet may be breeding a generation of social degenerates. 	84	95
+degenerates	degenerate_nou	The outcome of such a situation is that the degenerates vote money out of other people's wallets and out of future generations lives.	44	55
+degenerates	degenerate_nou	"I don't have any "" race-realist "" colleagues but among the TA's (das heisst jung) there are no race mixers or sexual degenerates.  "	117	128
+delegates	delegates_vrb	The Committee, while appreciative of the extensive involvement of civil society actors, is concerned that the State party delegates many of its training obligations under the Convention to the civil society, including non-governmental organizations (NGOs), who may lack the necessary capacities or financial resources to carry out these training. 	122	131
+delegates	delegates_vrb	However, it is concerned that the State party is more and more dependent on non-governmental organizations (NGOs) and that it delegates many of its implementation obligations under the Convention to the civil society, including NGOs, without ensuring the necessary framework or capacities for rights-based support to children.      	126	135
+delegates	delegates_vrb	He delegates that power to the three-judge tribunal, but he can pardon Gabriele and most expect he will if there's a conviction.	3	12
+delegates	delegates_vrb	"The minor characters in the novel show the same predatory nature as the main characters: Count Franchessi, to whom Vautrin delegates the murder of Victorine 's brother, is described as a ""falcon"". "	123	132
+deserts	deserts_vrb	A soldier who deserts in time of war is punished severely. 	14	21
+deserts	deserts_vrb	Where, then, is the justice of man, when he deserts the true God and yields himself to impure demons?	44	51
+deserts	deserts_vrb	Toward the end of the novel, George, his reputation ruined through the devious machinations of his rivals, falls into despair and deserts the castle to study medieval molding profiles on the Continent.      	130	137
+deviate	deviate_adj	Their deviate behavior annoys me.	6	13
+digests	digests_nou	Just wanted to let you know off some things that would be neat to see in future editions: the ability to remove the hash links at the end of each tweet in the digests and the ability to auto add text or images to the digests.    	159	166
+digests	digests_nou	In one - a series of short stories and novellas published in one of the digests - it turns out that anti-gravity and FTL drive are ludicrously easy.  	72	79
+digests	digests_nou	On other days, the digests will include brief sports or financial refer lines. 	19	26
+digests	digests_nou	Every day I won't walk away Reading through all the digests you show me I notice the way that you think you control me Doubting my future, you don't even know me.  	52	59
+documents	documents_vrb	It documents the failure of the closeted, broken, and unstable households that preceded same-sex marriage.	3	12
+documents	documents_vrb	"This lesson from history also documents the fact that the constitutional principle of separation between religion and government was not first debated or created in the 1947 Supreme Court case known as Everson v. Board of Education, as today's "" cut and paste "" history revisionists would have us believe."	30	39
+documents	documents_vrb	 The images have been digitized from the Museum's Prints, Drawings, and Photographs Collection, which documents the built environment of New York City and its changing cultural, political, and social landscape from its earliest days to the present.   	102	111
+documents	documents_vrb	A heartwarming new video documents the story of a small child whose life has been radically changed for the better because of 3D printing technology. 	25	34
+duplicate	duplicate_nou	A duplicate of the Tubman Plaque at the County Court House rests unattached against a wall, while folding chairs fill much of one side of the library facing a television and VCR that plays a video of Tubman's life.	2	11
+duplicate	duplicate_nou	"If you find a duplicate, it may be labeled "" My CD "" under the album column. "	14	23
+duplicate	duplicate_nou	Sometimes after blogger maintenance, the code for the movies embedded in the posts gets scrambled... but a duplicate is always posted in the Movie section at the bottom of the page.     	107	116
+duplicate	duplicate_nou	An agent at American in JFK went so far as to borrow my copy and make a duplicate to post for his co-workers. 	72	81
+entrances	entrances_vrb	Her beauty entirely entrances him.    	20	29
+excises	excises_nou	The information shows that in 1990 corporate income taxes increased and in 1993 excises and duties increased.      	80	87
+excises	excises_nou	In that database, changes to excises, taxes on financial transactions, and other minor taxes are aggregated, which makes it more difficult to identify certain trends such as the introduction of taxes on financial transactions in the late 1990s and early 2000s.  	29	36
+excises	excises_vrb	In contrast to Rizal, Hagedorn radically excises romance from the equation entirely. 	41	48
+excises	excises_vrb	Then it might look a little something like this scene by Hadju Bence, who excises all of the characters out of notable famous paintings and frescoes, leaving eerily empty scenes in his wake.        	74	81
+extracts	extracts_vrb	My conclusion is this: by heavily taxing earned income, the system extracts the highest taxes from the most productive citizens, leaving the less-productive with essentially no income taxes and the super-wealthy with the huge tax break offered to capital gains and other unearned income.      	67	75
+extracts	extracts_vrb	It extracts the full value out of the generated test data to help you optimize network efficiency, all through a highly automated, secure and centralized environment.	3	11
+extracts	extracts_vrb	Populate Index Fields not only validates an index field, but also automatically extracts the information from designated columns in the reference database and populates the corresponding index fields in Capture Pro software, thus reducing the amount of manual data entry required to index the document.       	80	88
+extracts	extracts_vrb	Coupled with the OCR technology, the Dynamic Document Capture (DDC) module extracts the relevant information from incoming customer orders, allowing complete sales order processing automation.        	75	83
+ferments	ferments_nou	Includes more than 40 ways to make fiery ferments part of any meal! 	41	49
+ferments	ferments_nou	It is impossible to prepare a menstruum suitable for the solution and preservation of mixed ferments of the pancreas and the stomach.  	92	100
+ferments	ferments_nou	If albumen is injected into the circulation of an animal for the first time, defensive ferments are found to appear, in the case of intravenous injection, at the end of about one day.     	87	95
+ferments	ferments_vrb	"Alvin says, ""When grain prices are low, an elevator fills, and eventually the grain ferments. "	84	92
+ferments	ferments_vrb	The sun's warmth just ferments the source of the smell hidden somewhere in the room.	22	30
+fragments	fragments_vrb	All candidates are at large representatives, and the system fragments the votes in such a way that, under the PR system, even the most wildly successful candidates are unable to garner the support of more than 5 % of the electorate in their states.	60	69
+graduate	graduate_nou	As a graduate of a top-rated school, such as Tokyo University, a Japanese student is all but assured lifetime employment and quick promotion in a famous company.	5	13
+graduate	graduate_nou	It is quite usual for a graduate of an American university, with a degree in literature, to be entirely ignorant of the works or the existence of writers like Kalidasa, Lu Xun, or Murasaki Shikibu .	24	32
+graduate	graduate_nou	Thoughts of a graduate of life is figuratively alluring and mind burgling engaging. 	14	22
+graduate	graduate_nou	You will soon be a graduate, and the whole world will rejoice with you for a job well done, whether you pass out, as it is commonly said, or you fail out, which nobody dares say!	19	27
+graduates	graduates_vrb	20 respondents graduates from out-of-state high school.	15	24
+graduates	graduates_vrb	Data were sought from 350 second-year enrolled students and 328 recent graduates from six commonly-offered occupational programs of varying occupational (socioeconomic) status. 	71	80
+houses	houses_nou	"Because the Nazis preferred single-family houses to apartment-home blocks, he finds a ""precedent for the Prince."" "	42	48
+houses	houses_vrb	The structure that houses the vessel of the first two reactors is also approaching completion.  	19	25
+implements	implements_vrb	Austria implements its obligation under article III, paragraph 2 of the Treaty, namely not to provide source or special [...] fissionable material, or equipment or material especially designed or prepared for the processing, use or production of special fissionable material, to any non-nuclear-weapon State for peaceful purposes, unless the source or special fissionable material shall be subject to the safeguards required by this article, by controlling its exports in accordance with EU Council regulation 428/2009. 	8	18
+implements	implements_vrb	The association will also be engaging with the United Nations Office on Drugs and Crime, in Vienna, as it implements the Protocol against the Illicit Manufacturing of and Trafficking in Firearms, Their Parts and Components and Ammunition, supplementing the United Nations Convention against Transnational Organized Crime.             	106	116
+implements	implements_vrb	UNHCR implements the operations under its mandate through a wide range of partners: United Nations entities and other international organizations in the context of bilateral partnerships, non-governmental organizations, universities and research institutes, eminent personalities, regional organizations, members of parliament, government departments, private sector entities, refugees and receiving communities. 	6	16
+implements	implements_vrb	With the dominant class presiding over the Nigerian economy, it implements the policies of these institutions which consistently penalize the majority of the people.       	64	74
+increases	increases_vrb	"All this is depressing and most unfortunate, but nonetheless true and, as you get more and more selective among ""Asians"" and ""whites,"" the competitive gap necessarily increases.         "	167	176
+increases	increases_vrb	One reason why the Proviso can plausibly be effective in the state of nature in addition to the vast amount of land available is that mixing labor with land so increases its value and the rewards reaped from it.            	160	169
+intimate	intimate_nou	"Sir Reginald was known to his intimate as ""Porky"".   "	30	38
+invalid	invalid_adj(not~well)	She looks after her invalid mother.	20	27
+invalid	invalid_adj(not~well)	Nobody looks after the invalid patient.	23	30
+invalid	invalid_adj(not~well)	His invalid son, who had just suffered his first attack of epilepsy. 	4	11
+invalid	invalid_adj(not~well)	I lived with my father's two sisters and his invalid mother.    	45	52
+invalid	invalid_adj(not~valid)	In view of the preceding discussion, it should also be noted that the draft contains an article which allows the Supreme Court to declare invalid legislation which violates the bill of rights.        	138	145
+invalid	invalid_adj(not~valid)	Another source of invalid measures is the practice of combining political democracy and stability.	18	25
+invalid	invalid_adj(not~valid)	Four problems of measurement are invalid indicators, subjective indicators, ordinal or dichotomous indicators, and the failure to test reliability or validity.	33	40
+invalid	invalid_adj(not~valid)	Because a test that was valid in one location often appeared to be invalid in other locations for the same job , experts tended to believe that every test needed to be validated separately for each new setting.   	67	74
+lead	lead_vrb	It can lead us to put our own need for innocence above our concern for the problem that made us feel guilt in the first place.	7	11
+lead	lead_vrb	But the slackening of the guilty tension did not lead to Gide's emergence as a specifically homosexual novelist.  	49	53
+lead	lead_vrb	Filiopietism and ethnic boosterism lead to all sorts of odd practices. 	35	39
+lead	lead_vrb	There are taboos on certain topics, taboos which if broken lead to sanctions not primarily from administrators or the general public , but from one 's own colleagues.	59	63
+lead	lead_nou(metal)	Other concerns included heavy metals, such as lead, cadmium, migrated from ceramic and metal ware, and phthalates from plastic bags, as well as higher level of overall migration from food contact materials.   	46	50
+lead	lead_nou(metal)	As happens with lead, another toxic heavy metal, when fragments of depleted uranium remain in the body, the kidneys are damaged, and all vital body functions are affected.	16	20
+lead	lead_nou(metal)	The wastes often contain radioactive nuclides and metal compounds (e.g., cadmium, lead, zinc and sulphates).   	82	86
+lead	lead_nou(metal)	The copper is extracted here in underground mines together with other metals such as silver, nickel and lead.    	104	108
+leads	leads_vrb	The communitarian ideal that leads one to denigrate competition, private purposes, and individual effort also is hostile to private associations voluntarily entered into, such as fraternities. 	29	34
+leads	leads_nou(metal)	Do not loop the temperature sensor connecting leads when laying because this can cause voltage coupling and result in measurement errors.  	46	51
+leading	leading_vrb	"In the story, the gate is both a garden gate, where the hero and heroine have more than one significant meeting, and the ""strait gate"" of Luke 13.24, leading to the virtuous life."	150	157
+leading	leading_vrb	can be no more--but should also be no less--than one well-defined step in the process leading from college through graduate school and into postdoctoral careers , whether within the university or outside.     	86	93
+leading	leading_vrb	In 1964 the Association of Graduate Schools and the Council of Graduate Schools issued a joint statement summarizing their view of the normal course of study leading to the doctorate: a year or two of lectures and seminars followed by a general examination and a dissertation.    	158	165
+leading	leading_vrb	These questions are not generally of the kind that are clearly taboo among university researchers, yet they are nonetheless subject to more subtle pressures leading to the self-suppression of research.      	157	164
+moderates	moderates_nou	What might have prevented the triumph of the moderates in the administration's turf wars over foreign policy is not clear.  	45	54
+moderates	moderates_nou	"Having removed the moderates, the authorities are left face to face with extremist elements and then claim ""there is nobody on the other side to talk to,"" a policy that serves only to increase violence, polarization, and dispair. "	19	28
+moderates	moderates_nou	Although it had become evident early on to left-wing radicals that the moderates of the Frankfurt Parliament were destroying the revolution with their policies and their anxious concern for legality, the constitutional liberals came to this realization only after neutralizing the Left and playing into the hands of the Right. 	71	80
+moderates	moderates_nou	"But even the moderates calling themselves ""liberals"" opposed almost unqualified manhood suffrage and argued for a more restricted franchise."	13	22
+moderates	moderates_vrb	Only a Democrat who rejects at least a part of the Fair Deal can carry Kansas, and only a Republican who moderates the Republican platform can carry Massachusetts. 	105	114
+mouths	mouths_nou	It is about the affairs concerning all the people, and other than ideal or convictions, politics may, at the end of the day, also be about meals, mouths to feed.  	146	152
+mouths	mouths_nou	Oval mouths are functionally less efficient than circular ones because the cork will only fit snugly in a maximum of two orientations and must be more carefully fitted to the specific shape.	5	11
+mouths	mouths_nou	Yet many have behaved like nothing has happened; they even tell others to keep their mouths shut and not to help certain people because they will be criticized should they say anything to defend those people. 	85	91
+mouths	mouths_nou	They become active at dusk, feeding on insects and small animals which they snap up with their wide mouths.   	100	106
+mouths	mouths_vrb	"The nurse mouths the word ""quiet""."	10	16
+ornaments	ornaments_vrb	She ornaments her dress with lace.	4	13
+overestimates	overestimates_nou	This source of error results in overestimates of total numbers of tags recovered for subsequent years.   	32	45
+overestimates	overestimates_nou	Because of the differences between engineering and economic lives, reliance on engineering estimates of measure lives is troublesome and may lead to overestimates of energy savings.        	149	162
+overestimates	overestimates_nou	This is an implausible assumption that necessarily leads to overestimates of the electricity savings that the programs are achieving and hence to underestimates of the cost per kWh saved.  	60	73
+overestimates	overestimates_vrb	Thus, the 80% range overestimates the average disparity that would occur between any pair of speakers.	20	33
+overestimates	overestimates_vrb	As a result, the percentage change in the wellhead price overestimates the increase in the end-user price which determines the extent of substitution and conservation .	57	70
+perfects	perfects_vrb	Accordingly, grace presupposes and perfects nature but does not destroy it.   	35	43
+perverts	perverts_nou	The promenade along the Wall is known as a date course for those perverts who get aroused as they embrace being watched by the Tower Police. 	65	73
+perverts	perverts_nou	These boys had come to the city from distant places in search of employment , but they reached the hands of sexual perverts who used them for homosexual purposes.  	115	123
+perverts	perverts_vrb	This perverts the entire organization, threatens its credibility in the world and erodes the potential of all other democratic improvements.	5	13
+perverts	perverts_vrb	Those news articles exposed to the world that the Chief Executive is a despicable and shameless person who accepts bribes and perverts the law.     	126	134
+pontificates	pontificates_nou	Its mission, internal structure, and relationship with modern governments were renewed during the pontificates of John XXIII and Paul VI. 	98	110
+pontificates	pontificates_vrb	He even pontificates about the humor of Oedipus 's situation, just before Allen himself began filming his comic episode Oedipus Wrecks for the omnibus film New York Stories.	8	20
+precipitate	precipitate_nou	We do not have chattel slavery because the precipitate of our historical experience has determined it to be morally wrong.	43	54
+precipitate	precipitate_nou	This breakdown in the constitutional order is the cause of the precipitate and catastrophic decline of Western society.	63	74
+precipitate	precipitate_nou	The interaction energy between the precipitate and a nitrogen atom.	35	46
+present	present_nou	I wish to make you a present in token of my gratitude.	21	28
+present	present_nou	There's no certain cure for this illness at present.	44	51
+present	present_nou	Focusing on the future instead of the present can cripple any activity.	38	45
+present	present_nou	He bought me a valuable diamond ring as a birthday present.	51	58
+produces	produces_nou	From the 3d or at most from the 5th year all expenses will be repaid, and thence a clear profit accrue every subsequent year, increasing with the produces of 70 acres, till the maximum of 1400 to 2000 acres are under cultivation.   	146	154
+produces	produces_nou	The compensation for such culture and preparation of produces for food and use, to be made by the owner of the ground, is to be a certain stipulated share of the produces.   	53	61
+produces	produces_nou	Consequently, the production cost, pop pc, and emissions, epc, of the produces not affected by the quality reduction are not included in the objective functions, because of they are constant and do not depend on the decisional ...     	70	78
+produces	produces_nou	Also, the produces in the long run be the same as in the short run?	10	18
+produces	produces_vrb	Where it produces not this effect, it must proceed either from some disorder in the organs of perception, or from the influence of some strong interest, or passion, or prejudice.	9	17
+produces	produces_vrb	Others must not have the right to take what she improves and produces. 	61	69
+produces	produces_vrb	It is simply true: love produces hope, and great love produces great hope. 	24	32
+produces	produces_vrb	The thallus body produces no spores, but produces sperms and eggs; that is, it produces gametes, and hence is called a gametophyte, which means a gamete plant.	17	25
+progresses	progresses_nou	Are you satisfied with the progresses of democracy?	27	37
+progresses	progresses_vrb	As the year progresses, less attention is paid to such issues, as it is assumed that the students have worked out efficient systems for themselves.	12	22
+progresses	progresses_vrb	As the movement toward genuine expression progresses, it also unleashes a powerful reaction to defend privilege. 	42	52
+progresses	progresses_vrb	Ail health care that progresses beyond pathology involves or includes attention to the ability to relax.	21	31
+protests	protests_vrb	She protests strongly at being called a snob.	4	12
+protests	protests_vrb	He protests his innocence.	3	11
+purports	purports_nou	Not everything in the purports builds upon the earlier commentaries.	22	30
+purports	purports_nou	To decipher the purports, one must refer to the source, which is responsible for adjusting them. 	16	24
+purports	purports_nou	Rather, the more we study the purports, the more we will appreciate Prabhupāda's relationship with Krsna.	30	38
+purports	purports_vrb	Under some circumstances, this provision purports to prohibit, under peril of criminal sanctions, the use of U.S. assistance of third-party funds by executive-branch officials, and requires presidential reporting of certain discussions concerning provision of assistance. 	41	49
+purports	purports_vrb	An evolutionary perspective on our species, however, should arouse suspicion of any hypothesis that purports to account for sex differences in sexual fantasy solely in terms of differential life experiences.     	100	108
+purports	purports_vrb	Validity--whether the test measures what it purports to measure--is of crucial importance in both teaching and research.	44	52
+read	read_vrb	Investors should read and fully understand all the offering documents relating to the relevant investments or products and all the risk disclosure statements and risk warnings therein before making any investment decisions. 	17	21
+read	read_vrb	There are none of the heady pleasures of authority-toppling and demystifying in attempting to read Swift deconstructively.    	94	98
+read	read_vrb	Let a book capture a child's interest at its peak and he will read it, not from any external compulsion, but from its promise of sheer pleasure and satisfaction.  	62	66
+read	read_vrb	Would you like to read another one like it sometime?	18	22
+read	read_vrb(past)	But at least he was read and respected.	20	24
+read	read_vrb(past)	After a subject expressed interest and orally assented to this proposal, they were taken to the interview venue and given a formal consent form which was read to them.         	154	158
+read	read_vrb(past)	Blanc was perhaps the most important of the mid-nineteenth-century French writers on color because he was read so avidly, by Seurat, Gauguin, and Van Gogh, among others.       	106	110
+read	read_vrb(past)	This scale was read to Hispanic respondents by the interviewers.	15	19
+rebels	rebels_vrb	My body, breed as it is, rebels against the very idea that such violations might proceed from me. 	25	31
+rebels	rebels_vrb	William McNeill argues that science as a whole may be discredited or reversed as society rebels against the unwanted effects produced by technology.     	89	95
+rebels	rebels_vrb	is not why it rebels against its civilian masters , but why it obeys them.	14	20
+rebels	rebels_vrb	We would say today that the underground protagonist rebels against the nightmare of a computerized human robot.   	52	58
+rebounds	rebounds_vrb	The lithium abundance rebounds from 6700 to 6200 K because stars rotate much more slowly as the temperature drops.	22	30
+recounts	recounts_nou	But all the court fights will be tough for the Democrats if the U.S. Supreme Court rules against the recounts, because such a ruling might set up an irresistible wave of public and lower court sentiment to wrap this mess up.      	101	109
+recounts	recounts_nou	If the recounts are taking place in counties in which one party has a higher degree of support than the other, then you 're not treating the supporters of one side with the same degree of fairness as the other.	7	15
+refills	refills_vrb	If one bathes while the water supply is available , one refills the basin or bucket so that the next household member may bathe. 	56	63
+refills	refills_vrb	Instead, she limps to the sink and refills the basin.	35	42
+refunds	refunds_vrb	None of the companies refunds the cost of shipping, but some pay for return shipping.	22	29
+refunds	refunds_vrb	When the seller receives it, he notifies the escrow service and it refunds the buyer 's money.    	67	74
+refuses	refuses_nou	If the owner of any building neglects or refuses for more than thirty days to comply with any direction of the refuses to comply with orders of inspector of buildings given as aforesaid, concerning the inspector.  	41	48
+refuses	refuses_vrb	The strong poet is thus the kind of self who refuses to be a copy, who is horrified at the thought of being, in Bloom 's wording, a replica. 	45	52
+relays	relays_vrb	Poole handles phones, takes a report from the field and relays it to Gerard.   	56	62
+relays	relays_vrb	When it leaves your office and travels through the Internet, it is vulnerable to hackers at each server that relays it on its way.        	109	115
+resumes	resumes_nou	To test this impression, I reviewed the resumes of some of my best law clerks--very capable, unpolitical, high ranking graduates of selective law schools, mostly Harvard and Columbia.  	40	47
+resumes	resumes_nou	While glancing through the resumes that came in at a rate of two or three a day, I discovered one pasted with the photograph of a face that looked familiar. 	27	34
+resumes	resumes_nou	Henry Hyde opened by reading the resumes of the other 12 managers.  	33	40
+retards	retards_nou	It is contemplated that retards will be replaced by rock revetment of the banks in lieu of reconstruction of the retards, and construction of new bank revetments where necessary to ...	24	31
+retards	retards_nou	For months, our school days were preoccupied with the effort to catch a glimpse of the retards.     	87	94
+retards	retards_nou	Like the retards in the special school in Berri.	9	16
+retards	retards_vrb	A century of research seems to have shown little more than that exposure to red light increases the pulse rate and blue light retards it.        	126	133
+retards	retards_vrb	Vegetation retards both the temperature and the evaporation and maintains soil permeability ; it also supports populations of small animals and insects that further permeability.	11	18
+row	row_vrb	Come, row the boat, row!	6	9
+row	row_vrb	The child who can row a boat has mastered a lesson in selfreliance she can use all her life.	18	21
+row	row_vrb	And the fourth row a beryl , and an onyx , and a jasper. 	15	18
+row	row_vrb	And the third row a ligure , an agate , and an amethyst. 	14	17
+row	row_vrb(quarrel)	Dad had to row with Louise at supper.	11	14
+rows	rows_vrb	The wind rows a re approximately four feet wide and two and one - half to three feet high.	9	13
+separates	separates_nou	U.B.Marvin kindly supplied the separates from Vaca Muerta. 	31	40
+separates	separates_nou	except that the separates from 78235 stainless steel mortar and pestle , and sieved to separate grains were leached only twice.	16	25
+subject	subject_nou	And again and finally @@ of wisdom, when we work only on inanimate matter, surely they become part of duty too, when the subject of our demolition and construction is not bricks and timber, but sentient being.  	121	128
+subject	subject_nou	But one reason to take a careful look at writers ' widows is that they themselves are a juicy literary subject.      	103	110
+subject	subject_nou	Such a subject speaks to the invariably interesting question of the durability of literary celebrity -- of the ways a writer 's work manages or fails to remain alive to the reading public after his death.	7	14
+subject	subject_nou	This is a vast and complicated subject that he summarizes very rapidly with the obvious intention of destroying the illusion that there is any neat arrangement in Nature for the sure conjunction of man and woman.   	31	38
+subjects	subjects_vrb	a witch makes an effigy of a person incorporating as many distinctive for the particular person , and then subjects the effigy to abuse which is believed to be felt by the person for whom the effigy stands -- this is like producing like.     	107	115
+subordinate	subordinate_nou	Keeley says, when she plays a subordinate in some genteel family, and protests.    	30	41
+subordinate	subordinate_nou	The influences of a subordinate ' s home life can be overcome by good management. 	20	31
+subordinate	subordinate_nou	When a subordinate progresses after being hired, it is usually because the manager has had a chance to give the subordinate help.	7	18
+subordinate	subordinate_nou	A supervisor touching or patting a private part of a subordinate's anatomy.  	53	64
+subordinates	subordinate_nou	On the other hand, coercive power refers specifically on the subordinates' perception that they will be penalized for non-compliance.  	61	73
+subordinates	subordinate_nou	According to Burns, transactional leaders motivate subordinates by providing rewards which appeal to the subordinates' self-interest.   	51	63
+subordinates	subordinate_nou	In another type of model, Johnstone and Cant assumed that the dominants have no control over reproduction of subordinates but instead have the power to evict the subordinates, at some cost.    	109	121
+subordinates	subordinate_nou	The top manager (professor) should take the subordinates out of the room and instruct them in preparation for the exercise.   	44	56
+suspect	suspect_nou	In both instances, the suspect or assailant may look different when viewed at a later time.  	23	30
+suspect	suspect_nou	If the suspect refused, he was executed.	7	14
+suspect	suspect_nou	Tapes are also made for sobriety examinations given when the suspect refuses to take a chemical test.    	61	68
+suspect	suspect_nou	When the suspect is brought in, he is informed of his rights and asked to take a chemical test.	9	16
+tears	tears_vrb	The sound of a carriage tears up the deep peace of this quarter.	24	29
+tears	tears_vrb	Eady-in her black and red kimono-tears up the steep hillside of golden fountain grass TO CAMERA from her house on the side of the hill.	33	38
+tears	tears_vrb	He tears up a revoking will under the impression that he thereby revives his first testament.	3	8
+tears	tears_vrb	 ... and the ripper tears up rock that used to need blasting. 	20	25
+traverses	traverses_nou	In one description, the Siberian Altaic shaman enters the gloomiest of forests and traverses the highest of mountains.       	83	92
+traverses	traverses_nou	The traverses across the country will be long and arduous.	4	13
+traverses	traverses_vrb	We make use of the energy lost by each particle as it traverses our detector.    	54	63
+traverses	traverses_vrb	For three hours he traverses the crowded streets , peers into the windows that now hide images from him , and finally notes that all have retreated to their homes behind closed doors , leaving him alone in the street. 	19	28
+upset	upset_nou	Last-minute changes caused a great deal of upset.  	43	48
+upset	upset_nou	One larger question remains to be asked: does Michelangelo's fresco compound the creation of Adam and the upset in Heaven in compliance with or in defiance of Christian tradition?  	106	111
+upset	upset_nou	Less well known is the upset that followed Ahmadinejad's nepotistic appointment of Esfandiar Rahim Masha'i, the father of his daughter-in-law, to the post of first vice president.	23	28
+upset	upset_nou	without reference to the current exchange certainly; but the mode in which it operates as a reduction of the upset ...    	109	114
+upset	upset_vrb	If you are upset for more than, say, two minutes, something has been activated from the past – the upset is no longer solely in the present. 	11	16
+wound	wound_vrb	A racial slur, however much it may wound one 's feelings, damages the reputation only of he who casts it. 	35	40
+wound	wound_vrb	One wonders how many of Thomas 's protests were aimed at alleviating the situation in Georgia and how many were intended to wound his father, directly or indirectly.     	124	129
+wound	wound_vrb	while the work he is engaged in is meant to wound his theoretical notion of narcissism.  	44	49
+wound	wound_vrb	If he who gives you this notice be 11 Christian, and, notwithstanding the information he gives you, you eat, he will condemn you in his heart, or will eat of it after your example, and thereby will wound his own conscience.     	198	203
