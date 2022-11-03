@@ -1,3 +1,4 @@
 # youdao_homograph_data
 
-The homograph data is being reviewed internally and will be open soon!
+
+We uploaded the test data first, and the training homograph data is being reviewed internally and will be open soon!
